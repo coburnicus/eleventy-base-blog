@@ -1,273 +1,293 @@
--- -layout : layouts / base.njk
-      eleventyNavigation : key : Home
-      order : 1
-      -- - <!doctype html>
-      <html lang="en">
-        <head>
-          <!-- Required meta tags -->
-          <meta charset="utf-8">
-          <meta
-          name="viewport" content="width=device-width, initial-scale=1">
-          <!-- Bootstrap CSS -->
-          <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
-          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css">
-          <style>
-            .bd-placeholder-img {
-            font - size : 1.125 rem;
-            text - anchor : middle;
-            -webkit - user - select : none;
-            -moz - user - select : none;
-            user - select : none;
-          }
-            @media (min-width: 768px) {
-            .bd - placeholder - img - lg {
-              font - size : 3.5 rem;
-            }
-          }
-            .container {
-            max - width : 960 px;
-          }
-            .pricing-header {
-            max - width : 700 px;
-          } </style>
-          <title>Transfer-of-Rights-Tracker</title>
-        </head>
-        <body>
-          <header class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-body border-bottom shadow-sm">
-            <p class="h5 my-0 me-md-auto fw-normal">Transfer-of-Rights-Tracker</p>
-            <nav class="my-2 my-md-0 me-md-3">
-              <a class="p-2 text-dark" href="#">National
-              </a>
-              <a class="p-2 text-dark" href="#">State</a>
-              <a class="p-2 text-dark" href="#">Download Data</a>
-              <a class="p-2 text-dark" href="#">About</a>
-            </nav>
-          </header>
-          <main class="container">
-            <center>
-              <?xml version="1.0" encoding="UTF-8"?>
-              <svg width="100pt" height="100pt" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-                <g>
-                  <path d="m87.398 36.801c-4 0-7.1992 1.1992-8.8008 1.8008-17.199-3.3984-28-7-29.602-8.6016-0.60156-0.60156-1.1992-1.6016-2-2.8008-1.8008-3.1992-4.6016-7.8008-10.801-7.8008-5 0-8 1.8008-9.3984 3-8.7969 0.20312-16.996 3-22.398 5.6016-1.1992 0.60156-1.8008 2-1.1992 3.3984 0.60156 1.1992 2 1.8008 3.3984 1.1992 5.1992-2.3984 13-5.1992 21.398-5.1992 0.80078 0 1.3984-0.39844 1.8008-0.80078 0 0 2-2 6.3984-2 3.1992 0 4.6016 2 6.6016 5.3984 0.80078 1.3984 1.6016 2.8008 2.8008 4 4 4 24.398 8.3984 33 10 0.60156 0.19922 1.1992 0 1.8008-0.19922 0 0 3-1.6016 7.1992-1.6016 4 0 4.6016 3.6016 4.6016 5.6016 0 0-0.60156 1.6016-5.3984 3.3984-2.3984-0.19922-7.1992-1.6016-11.398-3-5-1.6016-9.1992-3-11.801-3-1.1992 0-2.3984 0.19922-4 0.19922-2.3984 0.19922-5.6016 0.60156-10.398 0.60156-3.3984 0-7.3984-2.8008-11-5.3984-3.6016-2.6016-7.1992-5.1992-10.602-5.1992-4.1992 0-7.8008 2-8 2-1.1992 0.60156-1.6016 2.1992-1 3.3984 0.60156 1.1992 2.1992 1.6016 3.3984 1 0 0 2.3984-1.3984 5.3984-1.3984 1.8008 0 4.8008 2.1992 7.6016 4.1992 4.1992 3 8.8008 6.3984 13.801 6.3984s8.3984-0.39844 10.801-0.60156c1.3984-0.19922 2.6016-0.19922 3.3984-0.19922 1.8008 0 6.3984 1.3984 10.398 2.8008 0.80078 0.19922 1.3984 0.39844 2.1992 0.80078-7.3984 1.1992-18 2-33.398 2-28.398 0-29.602-15.398-29.602-16.199 0-1.3984-1.1992-2.3984-2.3984-2.3984-1.3984 0-2.3984 1.1992-2.3984 2.6016 0.19922 0.19922 1.1992 18.398 30.199 20.199-3.6016 4.3984-11.199 11.801-25.199 15.602-1.3984 0.39844-2.1992 1.8008-1.8008 3 0.39844 1.1992 1.3984 1.8008 2.3984 1.8008h0.60156c19.199-5.2031 27.602-16.402 30-20.203 20.398 0 35-1.6016 43.801-4.6016h0.19922c6-2 9.1992-4.8008 9.1992-8.1992-0.19922-6.3984-4-10.598-9.8008-10.598z"/>
-                  <path d="m36.602 33.398c1.6016 0 3-1.3984 3-3 0-1.6016-1.3984-3-3-3-1.6016 0-3 1.3984-3 3 0 1.6016 1.3984 3 3 3z"/>
-                </g>
-              </svg>
-              <?xml version="1.0" encoding="UTF-8"?>
-              <svg width="100pt" height="100pt" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-                <path d="m27.906 4.9648c-1.4375 0.035156-2.6484 1.0859-2.8867 2.5039-0.23438 1.4219 0.57031 2.8086 1.918 3.3086l5.9375 2.2812c-14.078 6.3516-23.875 20.523-23.875 36.938 0 19.629 13.789 36.289 32.438 39.938v0.003906c0.78516 0.15625 1.6016-0.007812 2.2656-0.45703s1.1211-1.1406 1.2734-1.9297c0.14844-0.78516-0.023437-1.6016-0.47656-2.2617-0.44922-0.66016-1.1484-1.1133-1.9375-1.2578-15.816-3.0977-27.562-17.207-27.562-34.035 0-13.793 8.0625-25.664 19.719-31.188l-2.4062 4.8438c-0.35547 0.71484-0.41797 1.5391-0.16406 2.2969 0.25 0.75391 0.79297 1.3828 1.5078 1.7383 0.71094 0.35547 1.5391 0.41406 2.293 0.16016 0.75781-0.25 1.3828-0.79297 1.7383-1.5078l6-12c0.38281-0.76172 0.42188-1.6484 0.11328-2.4414-0.30859-0.79297-0.94141-1.4141-1.7383-1.7148l-13-5c-0.36719-0.14844-0.76172-0.22266-1.1562-0.21875zm30.062 5c-1.5938-0.058594-2.957 1.1406-3.0977 2.7305-0.14062 1.5898 0.98828 3.0117 2.5664 3.2383 15.816 3.0977 27.562 17.238 27.562 34.062 0 13.805-8.082 25.672-19.75 31.188l2.4375-4.8438v0.003906c0.50781-0.95703 0.46484-2.1133-0.11719-3.0273-0.58594-0.91016-1.6133-1.4375-2.6953-1.3789-1.1055 0.054688-2.0898 0.71484-2.5625 1.7188l-6 12c-0.37109 0.75781-0.40625 1.6367-0.097656 2.4219s0.93359 1.4023 1.7227 1.7031l13 5c0.75781 0.35547 1.625 0.37891 2.3984 0.0625 0.77344-0.3125 1.3828-0.93359 1.6797-1.7148s0.25391-1.6484-0.11719-2.3945c-0.37109-0.75-1.0352-1.3086-1.8359-1.5469l-5.9062-2.2812c14.059-6.3555 23.844-20.508 23.844-36.91 0-19.625-13.789-36.316-32.438-39.969-0.19531-0.039063-0.39453-0.0625-0.59375-0.0625zm-7.9688 14.031c-6.5938 0-12 5.4102-12 12 0 3.3516 1.4141 6.4102 3.6562 8.5938-7.9648 3.1406-13.656 10.609-13.656 19.41 0 1.6562 1.3438 3 3 3h14c0.80469 0.011719 1.5781-0.30078 2.1484-0.86328 0.57031-0.56641 0.89453-1.3359 0.89453-2.1367 0-0.80469-0.32422-1.5742-0.89453-2.1367-0.57031-0.56641-1.3438-0.875-2.1484-0.86328h-10.688c1.457-6.8242 7.8398-12 15.688-12s14.23 5.1758 15.688 12h-10.688c-0.80469-0.011719-1.5781 0.29688-2.1484 0.86328-0.57031 0.5625-0.89453 1.332-0.89453 2.1367 0 0.80078 0.32422 1.5703 0.89453 2.1367 0.57031 0.5625 1.3438 0.875 2.1484 0.86328h14c1.6562 0 3-1.3438 3-3 0-8.8008-5.6914-16.27-13.656-19.41 2.2422-2.1836 3.6562-5.2383 3.6562-8.5938 0-6.5898-5.4062-12-12-12zm0 6c3.3477 0 6 2.6523 6 6s-2.6523 6-6 6-6-2.6523-6-6 2.6523-6 6-6z"/>
-              </svg>
-            </center>
-            <div class=" px-3 py-3 pt-md-5 pb-md-4 mx-auto text-left">
-              <h1 class="display-4">Transfer-of-Rights and Guardianship Tracking Project</h1>
-              <p class="lead">This project tracks and analyzes Transfer-of-Rights and Guardianship laws accross all 50 US states. It is a collaboration between The Institute for Community Inclusion at UMass Boston and Harvard Law School Project on Disability.
-              </p>
-              <p class="display-5 text-center">Here you can:</p>
-            </div>
-            <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
-              <div class="col">
-                <div class="card mb-4 shadow-sm">
-                  <div class="card-header">
-                    <h4 class="my-0 fw-normal">Explore National View</h4>
-                  </div>
-                  <div class="card-body">
-                    <ul class="list-unstyled mt-3 mb-4">
-                      <li>probably
-                      </li>
-                      <li>a map icon</li>
-                    </ul>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="currentColor" class="bi bi-stack" viewBox="0 0 16 16">
-                      <path d="M14.12 10.163l1.715.858c.22.11.22.424 0 .534L8.267 15.34a.598.598 0 0 1-.534 0L.165 11.555a.299.299 0 0 1 0-.534l1.716-.858 5.317 2.659c.505.252 1.1.252 1.604 0l5.317-2.66zM7.733.063a.598.598 0 0 1 .534 0l7.568 3.784a.3.3 0 0 1 0 .535L8.267 8.165a.598.598 0 0 1-.534 0L.165 4.382a.299.299 0 0 1 0-.535L7.733.063z"/>
-                      <path d="M14.12 6.576l1.715.858c.22.11.22.424 0 .534l-7.568 3.784a.598.598 0 0 1-.534 0L.165 7.968a.299.299 0 0 1 0-.534l1.716-.858 5.317 2.659c.505.252 1.1.252 1.604 0l5.317-2.659z"/>
-                    </svg>
-                    <button type="button" class="w-100 btn btn-lg btn-primary">View Map</button>
-                    <button type="button" class="w-100 btn btn-lg btn-primary">Use Tabulated Data</button>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card mb-4 shadow-sm">
-                  <div class="card-header">
-                    <h4 class="my-0 fw-normal">See Laws in Your State</h4>
-                  </div>
-                  <div class="card-body">
-                    <ul class="list-unstyled mt-3 mb-4">
-                      <li>placeholder</li>
-                      <li>probably
-                      </li>
-                      <li>dropdown</li>
-                    </ul>
-                    <select class="form-select form-select-lg mb-3" aria-label=".form-select-lg example">
-                      <option selected>Select a State</option>
-                      <option value="AL">Alabama</option>
-                      <option value="AK">Alaska</option>
-                      <option value="AZ">Arizona</option>
-                      <option value="AR">Arkansas</option>
-                      <option value="CA">California</option>
-                      <option value="CO">Colorado</option>
-                      <option value="CT">Connecticut</option>
-                      <option value="DE">Delaware</option>
-                      <option value="DC">District Of Columbia</option>
-                      <option value="FL">Florida</option>
-                      <option value="GA">Georgia</option>
-                      <option value="HI">Hawaii</option>
-                      <option value="ID">Idaho</option>
-                      <option value="IL">Illinois</option>
-                      <option value="IN">Indiana</option>
-                      <option value="IA">Iowa</option>
-                      <option value="KS">Kansas</option>
-                      <option value="KY">Kentucky</option>
-                      <option value="LA">Louisiana</option>
-                      <option value="ME">Maine</option>
-                      <option value="MD">Maryland</option>
-                      <option value="MA">Massachusetts</option>
-                      <option value="MI">Michigan</option>
-                      <option value="MN">Minnesota</option>
-                      <option value="MS">Mississippi</option>
-                      <option value="MO">Missouri</option>
-                      <option value="MT">Montana</option>
-                      <option value="NE">Nebraska</option>
-                      <option value="NV">Nevada</option>
-                      <option value="NH">New Hampshire</option>
-                      <option value="NJ">New Jersey</option>
-                      <option value="NM">New Mexico</option>
-                      <option value="NY">New York</option>
-                      <option value="NC">North Carolina</option>
-                      <option value="ND">North Dakota</option>
-                      <option value="OH">Ohio</option>
-                      <option value="OK">Oklahoma</option>
-                      <option value="OR">Oregon</option>
-                      <option value="PA">Pennsylvania</option>
-                      <option value="RI">Rhode Island</option>
-                      <option value="SC">South Carolina</option>
-                      <option value="SD">South Dakota</option>
-                      <option value="TN">Tennessee</option>
-                      <option value="TX">Texas</option>
-                      <option value="UT">Utah</option>
-                      <option value="VT">Vermont</option>
-                      <option value="VA">Virginia</option>
-                      <option value="WA">Washington</option>
-                      <option value="WV">West Virginia</option>
-                      <option value="WI">Wisconsin</option>
-                      <option value="WY">Wyoming</option>
-                    </select>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card mb-4 shadow-sm">
-                  <div class="card-header">
-                    <h4 class="my-0 fw-normal">Download Data File</h4>
-                  </div>
-                  <div class="card-body">
-                    <ul class="list-unstyled mt-3 mb-4">
-                      <li>Just</li>
-                      <li>Dowload
-                      </li>
-                      <li>Everything</li>
-                      <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
-                        <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
-                        <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
-                      </svg>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <hr>
-                <section>
-                  <h2 class="display-6">Transfer-of-Rights and Guardianship National Overview</h2>
-                  <p>Click on state to see more data</p>
-                  <div class='tableauPlaceholder' id='viz1614018407493' style='position: relative'>
-                    <noscript>
-                      <a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;filledmap&#47;filledmap&#47;1_rss.png' style='border: none'/></a>
-                    </noscript>
-                    <object class='tableauViz' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F'/>
-                      <param name='embed_code_version' value='3'/>
-                      <param name='site_root' value=''/><param name='name' value='filledmap&#47;filledmap'/><param name='tabs' value='no'/><param name='toolbar' value='yes'/><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;filledmap&#47;filledmap&#47;1.png'/>
-                      <param name='animate_transition' value='yes'/><param name='display_static_image' value='yes'/><param name='display_spinner' value='yes'/><param name='display_overlay' value='yes'/><param name='display_count' value='yes'/><param name='language' value='en'/></object>
-                  </div>
-                  <script type='text/javascript'>
-                    var divElement = document.getElementById('viz1614018407493');
-                    var vizElement = divElement.getElementsByTagName('object')[0];
-                    vizElement.style.width = '100%';
-                    vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
-                    var scriptElement = document.createElement('script');
-                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-                    vizElement.parentNode.insertBefore(scriptElement, vizElement);
-                  </script>
-                </section>
-                <hr>
-                  <footer class="pt-4 my-md-5 pt-md-5 border-top">
-                    <div class="row">
-                      <div class="col-12 col-md">
-                        <h5>Transfer-of-Rights and Guardianship Tracking Project is Produced by</h5>
-                      </div>
-                      <div class="col-6 col-md">
-                        <h5>ICI</h5>
-                        <ul class="list-unstyled text-small">
-                          <li>
-                            <a class="link-secondary" href="#">link</a>
-                          </li>
-                          <li>
-                            <a class="link-secondary" href="#">link</a>
-                          </li>
-                          <li>
-                            <a class="link-secondary" href="#">link</a>
-                          </li>
-                          <li>
-                            <a class="link-secondary" href="#">link</a>
-                          </li>
-                          <li>
-                            <a class="link-secondary" href="#">link</a>
-                          </li>
-                          <li>
-                            <a class="link-secondary" href="#">link</a>
-                          </li>
-                        </ul>
-                      </div>
-                      <div class="col-6 col-md">
-                        <h5>Harvard Law</h5>
-                        <ul class="list-unstyled text-small">
-                          <li>
-                            <a class="link-secondary" href="#">link</a>
-                          </li>
-                          <li>
-                            <a class="link-secondary" href="#">link</a>
-                          </li>
-                          <li>
-                            <a class="link-secondary" href="#">link</a>
-                          </li>
-                          <li>
-                            <a class="link-secondary" href="#">link</a>
-                          </li>
-                        </ul>
-                      </div>
-                      <div class="col-6 col-md">
-                        <h5>About</h5>
-                        <ul class="list-unstyled text-small">
-                          <li>
-                            <a class="link-secondary" href="#">link</a>
-                          </li>
-                          <li>
-                            <a class="link-secondary" href="#">link</a>
-                          </li>
-                          <li>
-                            <a class="link-secondary" href="#">linky</a>
-                          </li>
-                          <li>
-                            <a class="link-secondary" href="#">link</a>
-                          </li>
-                        </ul>
-                      </div>
-                    </div>
-                  </footer>
-                </main>
-                <!-- Optional JavaScript; choose one of the two! -->
-                <!-- Option 1: Bootstrap Bundle with Popper -->
-                <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
-                <!-- Option 2: Separate Popper and Bootstrap JS -->
-                <!--
-                    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js" integrity="sha384-KsvD1yqQ1/1+IA7gi3P0tyJcT3vR+NdBTt13hSJ2lnve8agRGXTTyNaBYmCR/Nwi" crossorigin="anonymous"></script>
-                    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.min.js" integrity="sha384-nsg8ua9HAw1y0W1btsyWgBklPnCUAFLuTMS2G72MMONqmOymq585AcH49TLBQObG" crossorigin="anonymous"></script>
-                    -->
-              </body>
-            </html>
+---
+layout: layouts/base.njk
+eleventyNavigation:
+  key: Home
+  order: 1
+---
+
+
+      <center>
+        <?xml version="1.0" encoding="UTF-8"?>
+<svg width="100pt" height="100pt" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path d="m87.398 36.801c-4 0-7.1992 1.1992-8.8008 1.8008-17.199-3.3984-28-7-29.602-8.6016-0.60156-0.60156-1.1992-1.6016-2-2.8008-1.8008-3.1992-4.6016-7.8008-10.801-7.8008-5 0-8 1.8008-9.3984 3-8.7969 0.20312-16.996 3-22.398 5.6016-1.1992 0.60156-1.8008 2-1.1992 3.3984 0.60156 1.1992 2 1.8008 3.3984 1.1992 5.1992-2.3984 13-5.1992 21.398-5.1992 0.80078 0 1.3984-0.39844 1.8008-0.80078 0 0 2-2 6.3984-2 3.1992 0 4.6016 2 6.6016 5.3984 0.80078 1.3984 1.6016 2.8008 2.8008 4 4 4 24.398 8.3984 33 10 0.60156 0.19922 1.1992 0 1.8008-0.19922 0 0 3-1.6016 7.1992-1.6016 4 0 4.6016 3.6016 4.6016 5.6016 0 0-0.60156 1.6016-5.3984 3.3984-2.3984-0.19922-7.1992-1.6016-11.398-3-5-1.6016-9.1992-3-11.801-3-1.1992 0-2.3984 0.19922-4 0.19922-2.3984 0.19922-5.6016 0.60156-10.398 0.60156-3.3984 0-7.3984-2.8008-11-5.3984-3.6016-2.6016-7.1992-5.1992-10.602-5.1992-4.1992 0-7.8008 2-8 2-1.1992 0.60156-1.6016 2.1992-1 3.3984 0.60156 1.1992 2.1992 1.6016 3.3984 1 0 0 2.3984-1.3984 5.3984-1.3984 1.8008 0 4.8008 2.1992 7.6016 4.1992 4.1992 3 8.8008 6.3984 13.801 6.3984s8.3984-0.39844 10.801-0.60156c1.3984-0.19922 2.6016-0.19922 3.3984-0.19922 1.8008 0 6.3984 1.3984 10.398 2.8008 0.80078 0.19922 1.3984 0.39844 2.1992 0.80078-7.3984 1.1992-18 2-33.398 2-28.398 0-29.602-15.398-29.602-16.199 0-1.3984-1.1992-2.3984-2.3984-2.3984-1.3984 0-2.3984 1.1992-2.3984 2.6016 0.19922 0.19922 1.1992 18.398 30.199 20.199-3.6016 4.3984-11.199 11.801-25.199 15.602-1.3984 0.39844-2.1992 1.8008-1.8008 3 0.39844 1.1992 1.3984 1.8008 2.3984 1.8008h0.60156c19.199-5.2031 27.602-16.402 30-20.203 20.398 0 35-1.6016 43.801-4.6016h0.19922c6-2 9.1992-4.8008 9.1992-8.1992-0.19922-6.3984-4-10.598-9.8008-10.598z"/>
+  <path d="m36.602 33.398c1.6016 0 3-1.3984 3-3 0-1.6016-1.3984-3-3-3-1.6016 0-3 1.3984-3 3 0 1.6016 1.3984 3 3 3z"/>
+ </g>
+</svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100pt" height="100pt" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+ <path d="m27.906 4.9648c-1.4375 0.035156-2.6484 1.0859-2.8867 2.5039-0.23438 1.4219 0.57031 2.8086 1.918 3.3086l5.9375 2.2812c-14.078 6.3516-23.875 20.523-23.875 36.938 0 19.629 13.789 36.289 32.438 39.938v0.003906c0.78516 0.15625 1.6016-0.007812 2.2656-0.45703s1.1211-1.1406 1.2734-1.9297c0.14844-0.78516-0.023437-1.6016-0.47656-2.2617-0.44922-0.66016-1.1484-1.1133-1.9375-1.2578-15.816-3.0977-27.562-17.207-27.562-34.035 0-13.793 8.0625-25.664 19.719-31.188l-2.4062 4.8438c-0.35547 0.71484-0.41797 1.5391-0.16406 2.2969 0.25 0.75391 0.79297 1.3828 1.5078 1.7383 0.71094 0.35547 1.5391 0.41406 2.293 0.16016 0.75781-0.25 1.3828-0.79297 1.7383-1.5078l6-12c0.38281-0.76172 0.42188-1.6484 0.11328-2.4414-0.30859-0.79297-0.94141-1.4141-1.7383-1.7148l-13-5c-0.36719-0.14844-0.76172-0.22266-1.1562-0.21875zm30.062 5c-1.5938-0.058594-2.957 1.1406-3.0977 2.7305-0.14062 1.5898 0.98828 3.0117 2.5664 3.2383 15.816 3.0977 27.562 17.238 27.562 34.062 0 13.805-8.082 25.672-19.75 31.188l2.4375-4.8438v0.003906c0.50781-0.95703 0.46484-2.1133-0.11719-3.0273-0.58594-0.91016-1.6133-1.4375-2.6953-1.3789-1.1055 0.054688-2.0898 0.71484-2.5625 1.7188l-6 12c-0.37109 0.75781-0.40625 1.6367-0.097656 2.4219s0.93359 1.4023 1.7227 1.7031l13 5c0.75781 0.35547 1.625 0.37891 2.3984 0.0625 0.77344-0.3125 1.3828-0.93359 1.6797-1.7148s0.25391-1.6484-0.11719-2.3945c-0.37109-0.75-1.0352-1.3086-1.8359-1.5469l-5.9062-2.2812c14.059-6.3555 23.844-20.508 23.844-36.91 0-19.625-13.789-36.316-32.438-39.969-0.19531-0.039063-0.39453-0.0625-0.59375-0.0625zm-7.9688 14.031c-6.5938 0-12 5.4102-12 12 0 3.3516 1.4141 6.4102 3.6562 8.5938-7.9648 3.1406-13.656 10.609-13.656 19.41 0 1.6562 1.3438 3 3 3h14c0.80469 0.011719 1.5781-0.30078 2.1484-0.86328 0.57031-0.56641 0.89453-1.3359 0.89453-2.1367 0-0.80469-0.32422-1.5742-0.89453-2.1367-0.57031-0.56641-1.3438-0.875-2.1484-0.86328h-10.688c1.457-6.8242 7.8398-12 15.688-12s14.23 5.1758 15.688 12h-10.688c-0.80469-0.011719-1.5781 0.29688-2.1484 0.86328-0.57031 0.5625-0.89453 1.332-0.89453 2.1367 0 0.80078 0.32422 1.5703 0.89453 2.1367 0.57031 0.5625 1.3438 0.875 2.1484 0.86328h14c1.6562 0 3-1.3438 3-3 0-8.8008-5.6914-16.27-13.656-19.41 2.2422-2.1836 3.6562-5.2383 3.6562-8.5938 0-6.5898-5.4062-12-12-12zm0 6c3.3477 0 6 2.6523 6 6s-2.6523 6-6 6-6-2.6523-6-6 2.6523-6 6-6z"/>
+</svg>
+</center>
+      <div class=" px-3 py-3 pt-md-5 pb-md-4 mx-auto text-left">
+        <h1 class="display-4">Transfer-of-Rights and Guardianship</h1>
+    
+        <p class="lead">This project tracks and analyzes Transfer-of-Rights and Guardianship laws accross all 50 US states. It is a collaboration between The Institute for Community Inclusion at UMass Boston and Harvard Law School Project on Disability. </p>
+        <p><a href="#findings">Read more about the project and our findings.<a></p>
+        <p class="display-5 text-center">Here you can:</p>
+      </div>
+    
+      <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
+        <div class="col">
+          <div class="card mb-4 shadow-sm">
+          <div class="card-header">
+            <h4 class="my-0 fw-normal">Explore National View</h4>
+          </div>
+          <div class="card-body">
+           
+            <ul class="list-unstyled mt-3 mb-4">
+             
+              <li>probably </li>
+              <li>a map icon</li>
+            </ul>
+            <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="currentColor" class="bi bi-stack" viewBox="0 0 16 16">
+              <path d="M14.12 10.163l1.715.858c.22.11.22.424 0 .534L8.267 15.34a.598.598 0 0 1-.534 0L.165 11.555a.299.299 0 0 1 0-.534l1.716-.858 5.317 2.659c.505.252 1.1.252 1.604 0l5.317-2.66zM7.733.063a.598.598 0 0 1 .534 0l7.568 3.784a.3.3 0 0 1 0 .535L8.267 8.165a.598.598 0 0 1-.534 0L.165 4.382a.299.299 0 0 1 0-.535L7.733.063z"/>
+              <path d="M14.12 6.576l1.715.858c.22.11.22.424 0 .534l-7.568 3.784a.598.598 0 0 1-.534 0L.165 7.968a.299.299 0 0 1 0-.534l1.716-.858 5.317 2.659c.505.252 1.1.252 1.604 0l5.317-2.659z"/>
+            </svg>
+            <button type="button" class="w-100 btn btn-lg btn-primary">View Map</button>
+            <button type="button" class="w-100 btn btn-lg btn-primary">Use Tabulated Data</button>
+          </div>
+        </div>
+        </div>
+        <div class="col">
+          <div class="card mb-4 shadow-sm">
+          <div class="card-header">
+            <h4 class="my-0 fw-normal">See Laws in Your State</h4>
+          </div>
+          <div class="card-body">
+           
+            <ul class="list-unstyled mt-3 mb-4">
+              <li>placeholder</li>
+              <li>probably </li>
+              <li>dropdown</li>
+              
+            </ul>
+            
+            <select class="form-select form-select-lg mb-3" aria-label=".form-select-lg example">
+              <option selected>Select a State</option>
+             
+              <option value="AL">Alabama</option>
+              <option value="AK">Alaska</option>
+              <option value="AZ">Arizona</option>
+              <option value="AR">Arkansas</option>
+              <option value="CA">California</option>
+              <option value="CO">Colorado</option>
+              <option value="CT">Connecticut</option>
+              <option value="DE">Delaware</option>
+              <option value="DC">District Of Columbia</option>
+              <option value="FL">Florida</option>
+              <option value="GA">Georgia</option>
+              <option value="HI">Hawaii</option>
+              <option value="ID">Idaho</option>
+              <option value="IL">Illinois</option>
+              <option value="IN">Indiana</option>
+              <option value="IA">Iowa</option>
+              <option value="KS">Kansas</option>
+              <option value="KY">Kentucky</option>
+              <option value="LA">Louisiana</option>
+              <option value="ME">Maine</option>
+              <option value="MD">Maryland</option>
+              <option value="MA">Massachusetts</option>
+              <option value="MI">Michigan</option>
+              <option value="MN">Minnesota</option>
+              <option value="MS">Mississippi</option>
+              <option value="MO">Missouri</option>
+              <option value="MT">Montana</option>
+              <option value="NE">Nebraska</option>
+              <option value="NV">Nevada</option>
+              <option value="NH">New Hampshire</option>
+              <option value="NJ">New Jersey</option>
+              <option value="NM">New Mexico</option>
+              <option value="NY">New York</option>
+              <option value="NC">North Carolina</option>
+              <option value="ND">North Dakota</option>
+              <option value="OH">Ohio</option>
+              <option value="OK">Oklahoma</option>
+              <option value="OR">Oregon</option>
+              <option value="PA">Pennsylvania</option>
+              <option value="RI">Rhode Island</option>
+              <option value="SC">South Carolina</option>
+              <option value="SD">South Dakota</option>
+              <option value="TN">Tennessee</option>
+              <option value="TX">Texas</option>
+              <option value="UT">Utah</option>
+              <option value="VT">Vermont</option>
+              <option value="VA">Virginia</option>
+              <option value="WA">Washington</option>
+              <option value="WV">West Virginia</option>
+              <option value="WI">Wisconsin</option>
+              <option value="WY">Wyoming</option>
+            </select>
+            
+          </div>
+        </div>
+        </div>
+        <div class="col">
+          <div class="card mb-4 shadow-sm">
+          <div class="card-header">
+            <h4 class="my-0 fw-normal">Download Data File</h4>
+          </div>
+          <div class="card-body">
+           
+              
+            <ul class="list-unstyled mt-3 mb-4">
+              <li>Just</li>
+              <li>Dowload </li>
+              <li>Everything</li>
+            <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+              <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+              <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+            </svg>
+          </div>
+        </div>
+        </div>
+      </div>
+      <hr>
+      <section>
+        <h2 class="display-6">Transfer-of-Rights and Guardianship National Overview</h2>
+        <p>Click on state to see more data</p>
+        <div class='tableauPlaceholder' id='viz1614018407493' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;filledmap&#47;filledmap&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='filledmap&#47;filledmap' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;filledmap&#47;filledmap&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1614018407493');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+      </section>
+      <hr>
+      <section id="findings">
+      <h3>Overview </h3>
+
+<p>The federal Individuals with Disabilities Education Act (IDEA) and its regulations allow States to choose to transfer parents’ rights under the IDEA to students when the students become adults or if they are incarcerated. With few exceptions, students generally become adults when they turn 18 years old.  </p>
+
+ 
+
+<p>Most, but not all, States choose to transfer parents’ rights under the IDEA to adult students. These States are required to notify both parents and students at least one year before students become adults under State law. Many States also specifically choose to transfer parents’ rights to students if they are incarcerated. In States where rights do not transfer, the parents retain full decision-making authority under the IDEA regardless of the students’ age. 
+</p>
+ 
+
+<p>Note that rights regarding access to student records recognized separately under the Federal Educational Rights and Protection Act (FERPA) transfer to students at the age of 18 regardless of whether that State chooses to transfer IDEA rights and regardless of the age of adulthood in that State. 
+</p>
+ 
+
+<p>Even if important parental rights under the IDEA do transfer to adult students, the IDEA requires that parents always retain the right to notice. However, not all States’ laws or regulations clearly recognize this requirement. Moreover, if parental rights transfer, then in most States parents lose the right to initiate due process or to file a lawsuit in their own name. Instead, adult students become responsible for asserting their rights under the IDEA in their own name. Even so, adult students to whom rights have transferred can choose to allow their parents to continue to participate in educational decision-making. </p>
+
+ 
+
+<p>The IDEA does not permit States to transfer parents’ rights to students who have been “adjudicated incompetent.” This generally refers to students who have legal guardians or conservators, although not all court orders appointing a guardian or conservator may include an “incompetency” determination. Some States’ laws, for example, allow courts to appoint partial or limited guardians or conservators without specifically finding that adult students are “incompetent.” </p>
+
+ 
+
+<p>Some States have specific laws or regulations about alternatives to guardianship that avoid the transfer of rights to adult students. These include powers of attorney and delegations or assignments of rights, transfer parental rights from adult students back to the parents. Alternatives also include supported or shared decision-making arrangements, which allow adult students to retain IDEA rights affording parents greater opportunities to participate in educational decision-making. Even where States’ laws or regulations regarding transfer of IDEA rights do not specifically mention alternatives, powers of attorney should be sufficient in most States to avoid transfer, although local education agency representatives in States without specific laws or regulations may be less familiar with this alternative.    </p>
+
+ 
+
+<p>Finally, some States have specific laws or regulations creating a “special procedure” that also prevents the transfer of rights. These “special procedures” generally entail a determination by the local education agency that adult student, to whom rights would otherwise transfer, are unable to give the informed consent required of parents by the IDEA for educational decisions. These procedures generally allow the local education agency to appoint educational representatives to give the informed consent required by the IDEA on the adult students’ behalf. </p>
+
+<h3>General Information </h3>
+
+<p>How many States transfer parental rights to students when they become adults pursuant to 20 U.S.C. § 1415(m)(1)?  <p>
+
+<svg height="200" width="200" viewBox="0 0 20 20">
+  <circle r="10" cx="10" cy="10" fill="grey" />
+  <circle r="5" cx="10" cy="10" fill="transparent"
+          stroke="tomato"
+          stroke-width="10"
+          stroke-dasharray="calc(35 * 31.4 / 100) 31.4"
+          transform="rotate(-90) translate(-20)" />
+</svg>
+
+<p>[INSERT PIE CHART: DO NOT TRANSFER, DO TRANSFER AT AGE 18, TRANSFER AT AGE 21] </p>
+
+ 
+
+<p>How many States have adopted special procedures to appoint representatives for adult students unable to provide informed consent pursuant to 20 U.S.C. § 1415(m)(2)? </p>
+
+ 
+
+<p>How many States have codified alternatives to guardianship for avoiding rights transfers? </p>
+
+ <svg height="200" width="200" viewBox="0 0 20 20">
+  <circle r="10" cx="10" cy="10" fill="grey" />
+  <circle r="5" cx="10" cy="10" fill="transparent"
+          stroke="tomato"
+          stroke-width="10"
+          stroke-dasharray="calc(35 * 31.4 / 100) 31.4"
+          transform="rotate(-90) translate(-20)" />
+</svg>
+
+<p>[INSERT PIE CHART: POAs, ASSIGNMENTS/DELEGATIONS, SDM] </p>
+
+ 
+
+<p>How many States’ agencies’ guidance accurately notifies parents and students of their transfer of rights options? </p>
+
+ 
+
+<p>Many, if not most, state educational agencies’ guidance fail to accurately describe their transfer of rights policies. Importantly, many state educational agencies fail to notify parents and students of their right to avoid rights transfer by executing powers of attorney for educational decisions. This, despite the federal Department of Education’s clear instructions in 2006 that post transfer adult students may assign educational rights through “a power of attorney or similar grant of authority,” provided that State so allow. Federal Register, Vol. 71, No. 156 (August 14, 2006) at p. 46713.  </p>
+
+<h3>State-Specific Questions </h3>
+
+<p>Is there a law or regulation clearly stating if parents’ IDEA rights transfer to adult students? </p>
+
+<p>Is there a law or regulation clearly stating if parents’ IDEA rights transfer to incarcerated students? </p>
+
+<p>Does the law or regulation clearly state that parents have a right to notice post transfer? </p>
+
+<p>Does the law or regulation clearly state that rights do not transfer to adult students with legal guardians or conservators? </p>
+
+<p>Does the law or regulation clearly mention alternatives to guardianship?  </p>
+
+<p>Is there a law or regulation creating a “special procedure” to appoint representatives for adult students deemed unable to give informed consent?  </p>
+
+<p>Do parents lose the right to make a due process complaint or to sue if their adult children’s right to FAPE is violated? </p>
+
+<p>Does state educational agency guidance clearly explain the applicable laws and/or regulations regarding transfer of rights?</p>
+</section>
+    
+      <footer class="pt-4 my-md-5 pt-md-5 border-top">
+        <div class="row">
+          <div class="col-12 col-md">
+          
+            <h5>Transfer-of-Rights and Guardianship Tracking Project is Produced by</h5>
+          </div>
+          <div class="col-6 col-md">
+            <h5>ICI</h5>
+            <ul class="list-unstyled text-small">
+              <li><a class="link-secondary" href="#">link</a></li>
+              <li><a class="link-secondary" href="#">link</a></li>
+              <li><a class="link-secondary" href="#">link</a></li>
+              <li><a class="link-secondary" href="#">link</a></li>
+              <li><a class="link-secondary" href="#">link</a></li>
+              <li><a class="link-secondary" href="#">link</a></li>
+            </ul>
+          </div>
+          <div class="col-6 col-md">
+            <h5>Harvard Law</h5>
+            <ul class="list-unstyled text-small">
+              <li><a class="link-secondary" href="#">link</a></li>
+              <li><a class="link-secondary" href="#">link</a></li>
+              <li><a class="link-secondary" href="#">link</a></li>
+              <li><a class="link-secondary" href="#">link</a></li>
+            </ul>
+          </div>
+          <div class="col-6 col-md">
+            <h5>About</h5>
+            <ul class="list-unstyled text-small">
+              <li><a class="link-secondary" href="#">link</a></li>
+              <li><a class="link-secondary" href="#">link</a></li>
+              <li><a class="link-secondary" href="#">linky</a></li>
+              <li><a class="link-secondary" href="#">link</a></li>
+            </ul>
+          </div>
+        </div>
+      </footer>
+    </main>
+    
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js" integrity="sha384-KsvD1yqQ1/1+IA7gi3P0tyJcT3vR+NdBTt13hSJ2lnve8agRGXTTyNaBYmCR/Nwi" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.min.js" integrity="sha384-nsg8ua9HAw1y0W1btsyWgBklPnCUAFLuTMS2G72MMONqmOymq585AcH49TLBQObG" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>
