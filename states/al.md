@@ -2,8 +2,9 @@
 layout: layouts/base.njk
 templateClass: tmpl-home
 title: Alabama
----
+abbreviation_: al
 
+---
 Yes
 
 Ala. Admin. Code r. 290-8-9-.05(6)(n)
