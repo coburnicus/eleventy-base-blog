@@ -20,7 +20,7 @@ fields:
     required: false
     min: 2
   label: 'Abbreviation '
-  description: Put the states abbreviation here.
+  description: Put the states abbreviation here, in lowercase.
 pages:
 - states/al.md
 - states/alaska.md
