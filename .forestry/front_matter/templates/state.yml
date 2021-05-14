@@ -1,6 +1,7 @@
 ---
 label: state
 hide_body: false
+display_field: abbreviation_
 fields:
 - type: text
   name: layout
@@ -13,5 +14,12 @@ fields:
 - type: text
   name: title
   label: title
+- name: abbreviation_
+  type: text
+  config:
+    required: false
+    min: 2
+  label: 'Abbreviation '
+  description: Put the states abbreviation here.
 pages:
 - states/alaska.md
