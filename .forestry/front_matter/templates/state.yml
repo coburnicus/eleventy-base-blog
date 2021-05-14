@@ -1,0 +1,13 @@
+---
+label: state
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: templateClass
+  label: templateClass
+- type: text
+  name: title
+  label: title
