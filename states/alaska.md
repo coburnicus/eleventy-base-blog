@@ -2,6 +2,7 @@
 layout: layouts/base.njk
 templateClass: tmpl-home
 title: Alaska
+abbreviation_: AK
 
 ---
 No.
