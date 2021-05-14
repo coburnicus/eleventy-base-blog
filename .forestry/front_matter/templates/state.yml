@@ -21,5 +21,3 @@ fields:
     min: 2
   label: 'Abbreviation '
   description: Put the states abbreviation here.
-pages:
-- states/alaska.md
