@@ -7,10 +7,12 @@ fields:
   name: layout
   label: layout
   default: layouts/base.njk
+  hidden: true
 - type: text
   name: templateClass
   label: templateClass
   default: tmpl-home
+  hidden: true
 - type: text
   name: title
   label: title
