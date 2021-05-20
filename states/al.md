@@ -2,11 +2,39 @@
 layout: layouts/base.njk
 templateClass: tmpl-home
 title: Alabama
-abbreviation_: al
+abbreviation_: AL
 
 ---
-Yes
+**_Is there a law or regulation clearly stating if parents’ IDEA rights transfer to adult students?_**
 
-Ala. Admin. Code r. 290-8-9-.05(6)(n)
+Yes, Ala. Admin. Code r. 290-8-9-.08 clearly states that parental rights generally transfer to students when they turn 19 years old.
 
-(8) Transfer of Parental Rights at Age of Majority (Age 19). ... If, under Alabama law, a child with a disability who has reached the age of 19, who has not been determined to be incompetent, but who is determined not to have the ability to provide informed consent with respect to the educational program of the child, the State shall establish procedures for appointing the parent of their child, or if the parent is not available, another appropriate individual, to represent the educational interests of the child throughout the period of eligibility of the child.
+**_Is there a law or regulation clearly stating if parents’ IDEA rights transfer to incarcerated students?_**
+
+Yes, Ala. Admin. Code r. 290-8-9-.08 clearly states that parental rights also transfer to incarcerated students upon incarceration.
+
+**_Does the law or regulation clearly state that parents have a right to notice post transfer?_**
+
+Yes, Ala. Admin. Code r. 290-8-9-.08 clearly states that parents have a right to notice.
+
+**_Does the law or regulation clearly state that rights do not transfer to adult students “adjudicated incompetent”?_**
+
+Yes, Ala. Admin. Code r. 290-8-9-.08 clearly states that parental rights do not transfer to adult students “determined to be incompetent” by a court.
+
+**_Does the law or regulation clearly mention alternatives to guardianship?_**
+
+No, Alabama’s special education regulation does not mention alternatives to guardianship that prevent the transfer of parental rights.
+
+**_Is there a law or regulation creating a “special procedure” to appoint representatives for adult students deemed unable to give informed consent?_**
+
+Yes, pursuant to Ala. Admin. Code r. 290-8-9-.08, the Alabama Department of Education’s Special Education Services has published special procedures, although the GATOR project has not located guidance outlining this procedure.
+
+**_Do parents lose the right to make a due process complaint or to sue if their students’ right to FAPE is violated?_**
+
+Unclear. The GATOR project team has not found hearing officer or court decisions that address this issue.
+
+**_Does state educational agency guidance clearly explain the applicable laws and/or regulations regarding transfer of rights?_**
+
+Yes, the Alabama State Department of Education’s 2015 _Preparing for Life Transition Planning Guide_ clearly states that parental rights generally transfer to students when they turn 19 years old and that parents have a right to notice.
+
+However, this guide does not mention that guardianship prevents rights from transferring. More current guidance may be available elsewhere.
