@@ -17,7 +17,7 @@ abbreviation_: AR
 
 * Yes, 5-18-009 Ark. Code R. § 07.1.1 clearly states that parents have a right to notice post transfer.
 
-**_Does the law or regulation clearly state that rights do not transfer to adult students “adjudicated incompetent”?_**
+**_Does the law or regulation clearly state that rights do not transfer to adult students with legal guardians or conservators?_**
 
 * Yes, 5-18-009 Ark. Code R. § 07.1.1 clearly states that parental rights do not transfer to adult students if “determined to be incompetent or incapacitated under State law.”
 
