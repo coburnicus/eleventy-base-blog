@@ -17,7 +17,7 @@ abbreviation_: AK
 
 * Yes, Alaska Admin. Code tit. 4, § 52.620 clearly states that parents have a right to notice.
 
-**_Does the law or regulation clearly state that rights do not transfer to adult students “adjudicated incompetent”?_**
+**_Does the law or regulation clearly state that rights do not transfer to adult students with legal guardians or conservators?_**
 
 * Yes, Alaska Admin. Code tit. 4, § 52.620 clearly states that parental rights do not transfer to adult students if “otherwise provided by a court of competent jurisdiction.”
 
