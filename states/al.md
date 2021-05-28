@@ -17,7 +17,7 @@ Yes, Ala. Admin. Code r. 290-8-9-.08 clearly states that parental rights also tr
 
 Yes, Ala. Admin. Code r. 290-8-9-.08 clearly states that parents have a right to notice.
 
-**_Does the law or regulation clearly state that rights do not transfer to adult students “adjudicated incompetent”?_**
+**_Does the law or regulation clearly state that rights do not transfer to adult students with legal guardians or conservators?_**
 
 Yes, Ala. Admin. Code r. 290-8-9-.08 clearly states that parental rights do not transfer to adult students “determined to be incompetent” by a court.
 
