@@ -17,7 +17,7 @@ abbreviation_: CA
 
 * Yes, Cal. Educ. Code § 56041.5 clearly states that parents have a right to notice post transfer.
 
-**_Does the law or regulation clearly state that rights do not transfer to adult students “adjudicated incompetent”?_**
+**_Does the law or regulation clearly state that rights do not transfer to adult students with legal guardians or conservators?_**
 
 * Yes, Cal. Educ. Code § 56041.5 clearly states that parental rights do not transfer to adult students “determined to be incompetent under state law.”
 
