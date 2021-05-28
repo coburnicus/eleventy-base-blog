@@ -17,7 +17,7 @@ abbreviation_: AZ
 
 * No, Arizona’s transfer of rights statute does not specify that parents have a right to notice, even though federal regulations clearly do so.
 
-**_Does the law or regulation clearly state that rights do not transfer to adult students “adjudicated incompetent”?_**
+**_Does the law or regulation clearly state that rights do not transfer to adult students with legal guardians or conservators?_**
 
 * Yes, Ariz. Rev. Stat. Ann. § 15-773(A) clearly states that parental rights do not transfer to adult students if “declared legally incompetent.”
 
