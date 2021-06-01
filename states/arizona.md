@@ -5,7 +5,7 @@ title: Arizona
 abbreviation_: AZ
 
 ---
-**_Is there a law or regulation clearly stating if parents’ IDEA rights transfer to adult students?_**
+**_Is there a law or regulation clearly stating if parents’ Individuals with Disabilities Education Act (IDEA) rights transfer to adult students?_**
 
 * Yes, Ariz. Rev. Stat. Ann. § 15-773 clearly states that parental rights generally transfer to students when they turn 18 years old.
 
@@ -29,7 +29,7 @@ abbreviation_: AZ
 
 * No, the GATOR project has not located an Arizona special education regulation that creates a “special procedure” that prevents parents’ rights from transferring to adult students determined to be unable of giving informed consent.
 
-**_Do parents lose the right to make a due process complaint or to sue if their students’ right to FAPE is violated?_**
+**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated?_**
 
 * Unclear. The GATOR project team has not found hearing officer or court decisions that address this issue in Arkansas.
 * Although the 8th Circuit Court of Appeals’ main holding regarding the statute of limitations in _Birmingham v. Omaha Sch. Dist._ has been superseded by statute, worth noting is that it appears to have committed two errors relating to its interpretation of the IDEA’s transfer of rights provisions. First, it erroneously implied that federal law, not State law, dictates whether parental rights transfer to adult students. Second, it erroneously implied that parents do not have a right to notice post transfer when it reasoned that the 1997 IDEA amendments did not cure the school district’s failure to provide notice to an adult student’s parent _ratione temporis_. 220 F.3d 850, 853-54 (8th Cir. 2000).
