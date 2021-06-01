@@ -5,7 +5,7 @@ title: Colorado
 abbreviation_: CO
 
 ---
-**_Is there a law or regulation clearly stating if parents’ IDEA rights transfer to adult students?_**
+**_Is there a law or regulation clearly stating if parents’ Individuals with Disabilities Education Act (IDEA) rights transfer to adult students?_**
 
 * Yes, Colo. Code Regs. § 301-8, 2220-R-6.02(9) clearly states that parental rights generally transfer to students when they turn 21 years old. Note, however, that students’ right to special education services ends no later than the end of the semester in which they turn 21.
 
@@ -29,7 +29,7 @@ abbreviation_: CO
 
 * No, the GATOR project has not located a Colorado special education regulation that creates a “special procedure” that prevents parents’ rights from transferring to adult students determined to be unable of giving informed consent.
 
-**_Do parents lose the right to make a due process complaint or to sue if their students’ right to FAPE is violated?_**
+**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated?_**
 
 * Unclear. The GATOR project team has not found hearing officer or court decisions that address this issue in Colorado.
 
