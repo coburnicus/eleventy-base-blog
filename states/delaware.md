@@ -5,7 +5,7 @@ title: Delaware
 abbreviation_: DE
 
 ---
-**_Is there a law or regulation clearly stating if parents’ IDEA rights transfer to adult students?_**
+**_Is there a law or regulation clearly stating if parents’ Individuals with Disabilities Education Act (IDEA) rights transfer to adult students?_**
 
 * Yes, 14-926 Del. Admin. Code § 20.0 clearly states that parental rights generally transfer to students when they turn 18 years old.
 
@@ -29,7 +29,7 @@ abbreviation_: DE
 
 * Yes, 14-926 Del. Admin. Code § 20.1.3 states that the IEP Team may determine an adult student incapable of providing informed consent. Only if a student’s “capacity is uncertain” must is a school psychologist required to participate in the determination. _Id._ at § 20.1.3.1.
 
-**_Do parents lose the right to make a due process complaint or to sue if their students’ right to FAPE is violated?_**
+**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated?_**
 
 * Unclear. The GATOR project team has not found hearing officer or court decisions that address this issue in Delaware.
 
