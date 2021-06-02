@@ -5,7 +5,7 @@ title: Arkansas
 abbreviation_: AR
 
 ---
-**_Is there a law or regulation clearly stating if parents’ IDEA rights transfer to adult students?_**
+**_Is there a law or regulation clearly stating if parents’ Individuals with Disabilities Education Act (IDEA) rights transfer to adult students?_**
 
 * Yes, 5-18-008 Ark. Code R. § 08.3 & 5-18-009 Ark. Code R. § 07.1 clearly state that parental rights transfer to students when they turn 18 years old.
 
@@ -29,7 +29,7 @@ abbreviation_: AR
 
 * Yes, 5-18-009 Ark. Code R. § 07.1.2 requires LEA’s to use “procedures established by the State” to appoint an educational representative if the student “can be determined to not have the ability to provide informed consent.”
 
-**_Do parents lose the right to make a due process complaint or to sue if their students’ right to FAPE is violated?_**
+**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated?_**
 
 * Unclear. The GATOR project team has not found hearing officer or court decisions that address this issue.
 

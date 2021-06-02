@@ -5,7 +5,7 @@ title: Alabama
 abbreviation_: AL
 
 ---
-**_Is there a law or regulation clearly stating if parents’ IDEA rights transfer to adult students?_**
+**_Is there a law or regulation clearly stating if parents’ Individuals with Disabilities Education Act (IDEA) rights transfer to adult students?_**
 
 Yes, Ala. Admin. Code r. 290-8-9-.08 clearly states that parental rights generally transfer to students when they turn 19 years old.
 
@@ -29,7 +29,7 @@ No, Alabama’s special education regulation does not mention alternatives to gu
 
 Yes, pursuant to Ala. Admin. Code r. 290-8-9-.08, the Alabama Department of Education’s Special Education Services has published special procedures, although the GATOR project has not located guidance outlining this procedure.
 
-**_Do parents lose the right to make a due process complaint or to sue if their students’ right to FAPE is violated?_**
+**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated?_**
 
 Unclear. The GATOR project team has not found hearing officer or court decisions that address this issue.
 
