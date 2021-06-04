@@ -37,7 +37,7 @@
 .pricing-header {
   max-width: 700px;
 }
-header {background-color: rgb(17, 120, 173);}
+nav {background-color: rgb(17, 120, 173);}
 .bg-grey {background-color: #d5d5d5;}
 .ici-logo {float:right;}
 .ici-red {color:#99312a;}
@@ -52,10 +52,10 @@ border:1px solid #d5d5d5;
    -webkit-box-shadow: -5px 10px 10px -4px #828282; 
 box-shadow: -5px 10px 10px -4px #828282;
 }
+main {padding-top:80px;}
 
 
-
-section {margin-top:5em; border:1px solid darkgrey; border-radius: 20px; padding:1em; -webkit-box-shadow: -5px 10px 10px -4px #828282; 
+section {margin-top:5em; border:1px solid darkgrey; border-radius: 20px; padding:80px 2em 2em 2em; -webkit-box-shadow: -5px 10px 10px -4px #828282; 
 box-shadow: -5px 10px 10px -4px #828282;}
 
 #maps {border-color:rgb(95, 110, 155);}
@@ -81,29 +81,27 @@ main {overflow-y: scroll;
 
     <header>
     
-       <nav class="navbar navbar-expand-lg navbar-dark bg-custom">
+       <nav class="fixed-top navbar navbar-expand-lg navbar-dark bg-custom ">
   <div class="container-xl">
     <a class="navbar-brand" href="#"><img src="/img/ici-sq.png" alt="ici" width="30" height="30"> Transfer-of-Rights and Guardianship</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <!--<ul class="navbar-nav me-auto mb-2 mb-lg-0 ">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0 ">
         <li class="nav-item">
-          <a class="nav-link" href="#">National</a>
+          <a class="nav-link" href="#maps">National</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">State</a>
+          <a class="nav-link" href="#states">State</a>
         </li>
+        
          <li class="nav-item">
-          <a class="nav-link" href="#">Download Data</a>
-        </li>
-         <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
+          <a class="nav-link" href="#faq">FAQ's</a>
         </li>
         
       
-      </ul>-->
+      </ul>
     
     </div>
   </div>
