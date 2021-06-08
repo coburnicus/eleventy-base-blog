@@ -24,7 +24,6 @@ fields:
   label: 'Abbreviation '
   description: Put the states abbreviation here, in lowercase.
 pages:
-- states/al.md
 - states/alaska.md
 - states/arizona.md
 - states/arkansas.md
