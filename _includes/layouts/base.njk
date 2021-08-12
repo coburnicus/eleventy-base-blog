@@ -77,8 +77,36 @@ main {overflow-y: scroll;
 
 dt { float: left; padding-right:.4em; font-style:italic;}
 
-table.sortable .sortLink { display: block; *margin-bottom: 1px; color: #000; text-decoration: none; }
-table.sortable .sortIcon { padding-left: 3px; vertical-align: 1px; }
+
+
+
+
+.sortable th:hover::after {
+  color: inherit;
+  font-size: 1.2em;
+  content: ' \025B8';
+}
+
+.sortable th::after {
+  font-size: 1.2em;
+  color: transparent;
+  content: ' \025B8';
+}
+
+.sortable th.dir-d {
+  color: #000;
+}
+
+.sortable th.dir-d::after {
+  color: inherit;
+  content: ' \025BE';
+}
+
+
+.sortable th.dir-u::after {
+  color: inherit;
+  content: ' \025B4';
+}
 
 
     </style>
