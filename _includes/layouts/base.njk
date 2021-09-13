@@ -57,7 +57,7 @@ box-shadow: -5px 10px 10px -4px #828282;
 main {padding-top:80px;}
 
 
-section {margin-top:2em; border:1px solid darkgrey; border-radius: 20px; padding:2em 2em 2em 2em; -webkit-box-shadow: -5px 10px 10px -4px #828282; 
+section {margin-top:2em; border:1px solid darkgrey; border-radius: 20px; padding:1em 1em 1em 1em; -webkit-box-shadow: -5px 10px 10px -4px #828282; 
 box-shadow: -5px 10px 10px -4px #828282;}
 
 #maps {border-color:rgb(95, 110, 155);}
@@ -145,6 +145,10 @@ dt { float: left; padding-right:.4em; font-style:italic;}
 </nav>
       </header>
     <main class=" container-xl">
+    {% if eleventyNavigation %}
+ {% else %}
+<p> <a href="/">&#8592; back</a></p>
+ {% endif %}
     {% if title %}
   <h1>{{ title }}</h1> 
 {% endif %}
