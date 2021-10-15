@@ -29,7 +29,7 @@ No, Alabama’s special education regulation does not mention alternatives to gu
 
 Yes, pursuant to Ala. Admin. Code r. 290-8-9-.08, the Alabama Department of Education’s Special Education Services has published special procedures, although the GATOR project has not located guidance outlining this procedure.
 
-**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated?_**
+**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated if their rights transfer?_**
 
 Unclear. The GATOR project team has not found hearing officer or court decisions that address this issue.
 
