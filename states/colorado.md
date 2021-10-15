@@ -29,7 +29,7 @@ abbreviation_: CO
 
 * No, the GATOR project has not located a Colorado special education regulation that creates a “special procedure” that prevents parents’ rights from transferring to adult students determined to be unable of giving informed consent.
 
-**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated?_**
+**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated if their rights transfer?_**
 
 * Unclear. The GATOR project team has not found hearing officer or court decisions that address this issue in Colorado.
 
