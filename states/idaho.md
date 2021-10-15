@@ -29,7 +29,7 @@ abbreviation_: ID
 
 * Yes, Idaho Code Ann. § 33-2002.04 authorizes the IEP team to determine a “student lacks the ability to provide informed consent,” halting the transfer, although it does not describe a procedure for doing so.
 
-**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated?_**
+**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated if their rights transfer?_**
 
 * Unclear. The GATOR project team has not found hearing officer or court decisions that address this issue in Idaho.
 
