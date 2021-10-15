@@ -29,7 +29,7 @@ abbreviation_: FL
 
 * Yes, Fla. Admin. Code Ann. r. 6A-6.03311(8)(e) allows parents to “\[b\]e appointed to represent the educational interests of their student” without an adjudication of incapacity by becoming a “guardian advocate.”
 
-**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated?_**
+**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated if their rights transfer?_**
 
 * Likely yes. _Castillo v. Sch. Bd. of Broward Cnty._, 2015 U.S. Dist. LEXIS 186579 (S.D. Fla. 2015) (agreeing “with Defendants that this action must also be dismissed for lack of standing, as Plaintiff, Mery Castillo, does not have standing to bring an action on behalf of her son, Yanni Castillo, who was not a minor at the time Plaintiff filed the Complaint, and is not alleged to have been determined incompetent under state law”).
 * Similarly, a Florida hearing officer, while stopping a school district from challenging one pair of parents’ standing to claim FAPE violations on behalf of their adult son, implied that the parents might have lacked standing had the school district fulfilled its duty to notify the parents of the rights transfer. Fla. Div. Admin. Hr’gs, Case No. 04-0898E, In re Miami-Dade County School District (July 12, 2004).
