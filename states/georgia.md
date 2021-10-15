@@ -29,7 +29,7 @@ abbreviation_: GA
 
 * No, Georgia’s transfer of rights regulation does not create a special procedure for determining adult students to lack capacity to give informed consent.
 
-**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated?_**
+**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated if their rights transfer?_**
 
 * Unclear. The GATOR project team has not found hearing officer or court decisions that address this issue in Georgia.
 
