@@ -35,7 +35,7 @@ abbreviation_: HI
 
   (3) The student's inability to communicate such understanding in any meaningful way.” _Id._ at § 302A-493(b).
 
-**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated?_**
+**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated if their rights transfer?_**
 
 * Possibly not. A hearing officer has denied a school district’s motion to dismiss a parent’s due process complaint with regard to her adult son for lack of standing. The son’s former principal testified that he was not capable of providing informed consent, but Hawaii had not established a special procedure pursuant to 20 U.S.C. § 1415(m)(2). In the hearing officer’s mind, this failure appeared to estop the school district from asserting the mother lacked standing, because she would have been appointed educational representative had Hawaii complied with the IDEA. _In re Dep’t of Educ., State of Hawaii_, Hawaii State Educ. Agency No. 00-71, 102 LRP 3747 (Mar. 15, 2000).
 
