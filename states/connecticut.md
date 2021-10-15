@@ -29,7 +29,7 @@ abbreviation_: CT
 
 * Yes, Conn. Agencies Regs. §10-76d-12(g) states that an adult student “may be certified as unable to provide informed consent or to make educational decisions” by “two separate professionals,” in which case parental rights will not transfer to the student. Such certification only lasts for one year and is subject to challenge. (Added in 74 Conn. L.J. 51 (June 18, 2013).)
 
-**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated?_**
+**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated if their rights transfer?_**
 
 * Probably, yes. The district court in _DOE v. Westport Bd. of Educ._, 2020 U.S. Dist. LEXIS 29911 (D. Conn. Feb. 21, 2020), declined to reverse a hearing officer’s determination that parents lost their right to seek reimbursement under the IDEA after their daughter turned 18 years old and their rights had transferred to her.
 * However, note that a school district’s failure to notify parents and students of the transfer of rights may allow parents to bring claims on behalf of their adult students despite rights having transferred if the procedural defect denied them an opportunity to participate in IEP planning and implementation. _Bruno v Greenwich Bd. of Educ._, 2006 US Dist. LEXIS 1885 (D. Conn. Jan. 6, 2006).
