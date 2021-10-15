@@ -29,7 +29,7 @@ abbreviation_: RI
 
 * No, Rhode Island’s transfer of rights regulation does not create a special procedure for appointing representatives to adult students deemed unable to give informed consent.
 
-**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated?_**
+**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated if their rights transfer?_**
 
 * Unclear. The GATOR project team has not located hearing officer or court decisions that address this issue in Rhode Island.
 
