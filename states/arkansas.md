@@ -29,7 +29,7 @@ abbreviation_: AR
 
 * Yes, 5-18-009 Ark. Code R. § 07.1.2 requires LEA’s to use “procedures established by the State” to appoint an educational representative if the student “can be determined to not have the ability to provide informed consent.”
 
-**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated?_**
+**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated if their rights transfer?_**
 
 * Unclear. The GATOR project team has not found hearing officer or court decisions that address this issue.
 
