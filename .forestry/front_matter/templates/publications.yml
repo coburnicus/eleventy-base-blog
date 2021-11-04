@@ -1,4 +1,25 @@
 ---
 label: publications
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: pub_type
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - webpage
+    - download
+    - webinar
+    - video
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: pub type
