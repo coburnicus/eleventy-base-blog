@@ -23,3 +23,47 @@ fields:
       file: 
       path: 
   label: pub type
+- name: slug
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+    max: 200
+  label: slug
+  description: what shows up on front page
+- name: body
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: body
+  description: if webpage, used this place to add body
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 64
+  label: thumbnail
+  description: cropped to 75x100
+- name: document_upload
+  type: file
+  config:
+    maxSize: 64
+  label: document_upload
+- name: authors
+  type: text
+  config:
+    required: false
+  label: authors
+  description: separated by commas
+- name: link_to_video_or_webinar
+  type: text
+  config:
+    required: false
+  label: link to video or webinar
+  description: if linking to video, or webinar, you can paste it here.
