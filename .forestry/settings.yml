@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: publications
   label: Publications
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - publications
