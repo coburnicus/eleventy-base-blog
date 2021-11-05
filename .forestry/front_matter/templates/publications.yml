@@ -3,6 +3,20 @@ label: publications
 hide_body: false
 display_field: title
 fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  default: pubs
+  hidden: true
+- name: templateclass
+  type: text
+  config:
+    required: false
+  label: templateClass
+  default: tmpl-home
+  hidden: true
 - name: title
   type: text
   config:
