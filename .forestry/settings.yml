@@ -5,6 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: publications
+  label: Publications
+  create: all
+  match: "**/*"
+  templates:
+  - publications
+- type: directory
   path: states
   label: states
   create: documents
