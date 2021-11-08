@@ -56,7 +56,7 @@ fields:
     required: false
     wysiwyg: true
     schema:
-      format: markdown
+      format: html-blocks
   label: body
   description: if webpage, used this place to add body
 - name: thumbnail
