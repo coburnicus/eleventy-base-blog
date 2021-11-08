@@ -95,4 +95,5 @@ fields:
   label: feature_image
   description: Add a feature image
 pages:
+- publications/gator-resource-list-1.md
 - publications/gator-resource-list.md
