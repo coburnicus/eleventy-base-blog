@@ -94,3 +94,5 @@ fields:
     maxSize: 64
   label: feature_image
   description: Add a feature image
+pages:
+- publications/gator-resource-list.md
