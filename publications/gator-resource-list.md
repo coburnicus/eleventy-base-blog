@@ -3,10 +3,11 @@ layout: pubs
 templateclass: tmpl-home
 pub_type: download
 title: Gator Resource List
-slug: 'See a curated list of useful resources regarding guarding '
+slug: 'See a curated list of useful resources regarding guardianship and transfer
+  of rights '
 body: ''
-thumbnail: ''
-document_upload: ''
+thumbnail: "/uploads/gator_resource_list_f_th.png"
+document_upload: "/uploads/gator_resource_list_f.pdf"
 authors: ''
 link_to_video_or_webinar: ''
 embed: ''
