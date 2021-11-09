@@ -1,18 +1,18 @@
 ---
-layout: pubs
+layout: layouts/pubs.njk
 templateclass: tmpl-home
 pub_type: webpage
-title: 'Gator Resource List '
+title: "Gator Resource List "
 slug: A curated list of resources related to guardianship and transfer of rights
-body: ''
+body: ""
 thumbnail: "/uploads/gator_resource_list_f_th.png"
-document_upload: ''
-authors: ''
-link_to_video_or_webinar: ''
-embed: ''
-feature_image: ''
-
+document_upload: ""
+authors: ""
+link_to_video_or_webinar: ""
+embed: ""
+feature_image: ""
 ---
+
 ## ARE YOU A YOUTH OR A SUPPORTER WANTING TO LEARN MORE ABOUT TRANSFER OF RIGHTS AND ALTERNATIVES TO GUARDIANSHIP?
 
 **Click on the title of each resource on this page to read, watch, download, or learn more about it:**

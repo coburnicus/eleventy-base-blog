@@ -3,7 +3,7 @@
   {% include "head.njk" %}
   <body>
 
-{% include "header.html" %} 
+{% include "header.njk" %} 
     <main class=" container-xl">
     {% if eleventyNavigation %}
  {% else %}
@@ -16,4 +16,4 @@
       {{ content | safe }}
     </main>
 
-   {% include "footer.html"}
+   {% include "footer.njk" %}
