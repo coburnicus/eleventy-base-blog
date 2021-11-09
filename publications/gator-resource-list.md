@@ -2,7 +2,7 @@
 layout: pubs
 templateclass: tmpl-home
 pub_type: download
-title: Gator Resource List [download]
+title: 'Gator Resource List [download] '
 slug: 'See a curated list of useful resources regarding guardianship and transfer
   of rights '
 body: ''
