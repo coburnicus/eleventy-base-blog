@@ -13,9 +13,9 @@ embed: ''
 feature_image: ''
 
 ---
-ARE YOU A YOUTH OR A SUPPORTER WANTING TO LEARN MORE ABOUT TRANSFER OF RIGHTS AND ALTERNATIVES TO GUARDIANSHIP?
+## ARE YOU A YOUTH OR A SUPPORTER WANTING TO LEARN MORE ABOUT TRANSFER OF RIGHTS AND ALTERNATIVES TO GUARDIANSHIP?
 
-Click on the title of each resource on this page to read, watch, download, or learn more about it:
+**Click on the title of each resource on this page to read, watch, download, or learn more about it:**
 
 \**The Right to Make Choices: International Laws and Decision-Making by People with Disabilities**Autism Self-Advocacy NetworkEasy Read Paper from 2016
 
