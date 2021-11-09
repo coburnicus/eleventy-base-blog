@@ -8,7 +8,7 @@ fields:
   config:
     required: false
   label: layout
-  default: pubs
+  default: layouts/pubs.njk
   hidden: true
 - name: templateclass
   type: text
