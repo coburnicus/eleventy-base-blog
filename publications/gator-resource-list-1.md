@@ -6,7 +6,7 @@ title: 'Gator Resource List '
 slug: A curated list of resources related to guardianship and transfer of rights
 body: ''
 thumbnail: "/uploads/gator_resource_list_f_th.png"
-document_upload: ''
+document_upload: "/uploads/gator_resource_list_f.pdf"
 authors: ''
 link_to_video_or_webinar: ''
 embed: ''
