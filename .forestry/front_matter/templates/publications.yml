@@ -49,16 +49,6 @@ fields:
     max: 200
   label: slug
   description: what shows up on front page
-- name: body
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: body
-  description: if webpage, used this place to add body
 - name: thumbnail
   type: file
   config:
