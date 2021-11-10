@@ -17,6 +17,13 @@ fields:
   label: templateClass
   default: tmpl-home
   hidden: true
+- name: tags
+  type: text
+  config:
+    required: false
+  label: tags
+  hidden: true
+  default: pub
 - name: title
   type: text
   config:
@@ -84,13 +91,6 @@ fields:
     maxSize: 64
   label: feature_image
   description: Add a feature image
-- name: tags
-  type: text
-  config:
-    required: false
-  label: tags
-  hidden: true
-  default: pubs
 pages:
 - publications/gator-resource-list-1.md
 - publications/gator-resource-list.md
