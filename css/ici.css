@@ -82,11 +82,6 @@ section {
   color: rgb(163, 205, 56);
 }
 
-rgb(163, 205, 56) main {
-  overflow-y: scroll;
-  scroll-behavior: smooth;
-}
-
 dt {
   float: left;
   padding-right: 0.4em;
@@ -121,4 +116,9 @@ dt {
 
 #pubs img {
   max-width: 150px;
+}
+
+.card img {
+  max-width: 150px;
+  margin: auto;
 }
