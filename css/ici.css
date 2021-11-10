@@ -118,3 +118,7 @@ dt {
   color: inherit;
   content: " \025B4";
 }
+
+#pubs img {
+  max-width: 150px;
+}
