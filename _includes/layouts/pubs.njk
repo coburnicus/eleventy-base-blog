@@ -12,10 +12,28 @@
     {% if title %}
   <h1>{{ title }}</h1> 
 {% endif %}
-{% if document_upload %}
-<h2>test is true</h2>
-{%endif%}
+
+  {% if document_upload %}
+  <div class="card" style="width: 18rem; float:right;">
+  
+  <img src="{{ thumbnail }}" class="card-img-top" alt="...">
+  <div class="card-body">
+    <a href="#" class="btn btn-primary">Download this Document</a>
+    
+  </div>
+</div>
+{% endif %}
+
+{%if embed %}
+{% raw %}
+{{ embed }}
+{% endraw %}
+{% endif %}
+
+
       {{ content | safe }}
+
+
     </main>
 
    {% include "footer.njk" %}
