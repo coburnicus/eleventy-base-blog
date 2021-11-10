@@ -25,9 +25,9 @@
 {% endif %}
 
 {%if embed %}
-{% raw %}
-{{ embed }}
-{% endraw %}
+<div class="mx-auto" style="max-width:800px; padding:3em;">
+{{ embed | safe }}
+</div>
 {% endif %}
 
 
