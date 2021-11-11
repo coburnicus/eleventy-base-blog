@@ -3,17 +3,17 @@ layout: layouts/pubs.njk
 templateclass: tmpl-home
 pub_type: webpage
 tags: pub
-title: "Gator Resource List "
+title: 'Gator Resource List '
 slug: A curated list of resources related to guardianship and transfer of rights
-body: ""
+body: ''
 thumbnail: "/uploads/gator_resource_list_f_th.png"
 document_upload: "/uploads/gator_resource_list_f.pdf"
-authors: ""
-link_to_video_or_webinar: ""
-embed: ""
-feature_image: ""
----
+authors: ''
+link_to_video_or_webinar: ''
+embed: ''
+feature_image: ''
 
+---
 ## Are You a Youth or a Supporter Wanting to Learn More About Transfer of Rights and Alternatives to Guardianship?
 
 **Click on the title of each resource on this page to read, watch, download, or learn more about it:**
@@ -51,7 +51,7 @@ John McCarty Video from 2020
 **<a href="https://fcsn.org/linkcenter/transition-resources/brochures/">Age of Majority</a>**  
 Federation for Children with Special Needs Brochures about transition
 
-**<a href="http://supporteddecisionmaking.org/impact-stories/supported-decision-making-gabbys-story#:~:text=Supported%20Decision%20Making%20is%20an,to%20make%20their%20own%20choices.&text=This%20film%20uses%20Gabby's%20story,way%20to%20maintain%20personal%20autonomy">Supported Decision Making: Gabby’s Story</a>**  
+**<a href="http://supporteddecisionmaking.org/impact-stories/supported-decision-making-gabbys-story#:\~:text=Supported%20Decision%20Making%20is%20an,to%20make%20their%20own%20choices.&text=This%20film%20uses%20Gabby's%20story,way%20to%20maintain%20personal%20autonomy">Supported Decision Making: Gabby’s Story</a>**  
 Lynne O’Hara Video from 2016
 
 **<a href="https://www.dlc-ma.org/wp-content/uploads/2017/12/Alternatives-to-Guardianship-and-Guardianship.pdf">Self-Advocacy Materials: Guardianship and Alternatives to Guardianship</a>**  
@@ -59,3 +59,7 @@ Massachusetts Disability Law Center Paper from 2017
 
 **<a href="https://selfadvocacyinfo.org/wp-content/uploads/2019/06/Support-decision-making-Guide-revised-2018.pdf">“My Voice Counts” Supported Decision Making, An Alternative to Guardianship: A Self Advocate’s Guide to Supported Decision Making</a>**  
 Self-Advocacy Speakers Network, Utah Guide from 2017
+
+![](/uploads/mass-org.png)
+
+![](/uploads/sanys-circle-blue.png)
