@@ -61,3 +61,5 @@ Massachusetts Disability Law Center Paper from 2017
 Self-Advocacy Speakers Network, Utah Guide from 2017
 
 ![](/uploads/mass-org.png)
+
+![](/uploads/sanys-circle-blue.png)
