@@ -31,6 +31,19 @@ nav {
 .ici-red {
   color: #99312a;
 }
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #99312a !important;
+  margin: 1em 0;
+  padding: 0;
+}
+.card {
+  border-color: #99312a !important;
+}
+
 .ici-middle {
   margin: auto;
 }
@@ -125,4 +138,8 @@ dt {
 
 .direct-link {
   color: lightgrey;
+}
+
+a {
+  text-decoration: dotted !important;
 }
