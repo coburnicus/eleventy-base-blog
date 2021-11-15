@@ -4,7 +4,8 @@ templateclass: tmpl-home
 tags: pub
 pub_type: video
 title: Lessons Learned from Research Related to Transition-Age Youth
-slug: "Reinventing Quality Conference Video, August 2021                                     \n"
+slug: "Reinventing Quality Conference Video, August 2021                                     \nReinventing
+  Quality Conference Video, August 2021                                     "
 thumbnail: "/uploads/player.png"
 document_upload: ''
 authors: ''
