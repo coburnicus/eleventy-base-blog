@@ -129,6 +129,8 @@ dt {
 
 #pubs img {
   max-width: 100px;
+  float: right;
+  padding-left: 1em;
 }
 
 .card img {

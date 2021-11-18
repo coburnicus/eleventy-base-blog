@@ -172,10 +172,12 @@ eleventyNavigation:
       {%- for pub in collections.pub -%}
    <div class="col-md-4">
   <div class="card" style="">
- <a href="{{ pub.url }}">
-   <img src="{{ pub.data.thumbnail }}" class="mx-auto d-block card-img-top" alt="{{ pub.data.title }}"></a>
+ 
   <div class="card-body">
+  
      <a href="{{ pub.url }}"><h5 class="card-title">{{ pub.data.title }}</h5></a>
+     <a href="{{ pub.url }}">
+   <img src="{{ pub.data.thumbnail }}" class="mx-auto d-block card-img-top" alt="{{ pub.data.title }}"></a>
     <p class="card-text">{{ pub.data.slug }}</p>
    
   </div>
