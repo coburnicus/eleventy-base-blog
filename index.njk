@@ -174,9 +174,15 @@ eleventyNavigation:
   <div class="card" style="">
  
   <div class="card-body">
-  
+ 
+  {% if 'download' in pub.data.pub_type %}
+    <a href="{{pub.data.document_upload}}"><h5 class="card-title">{{ pub.data.title }}</h5></a>
+     <a href="{{pub.data.document_upload}}">
+
+  {% else %}
      <a href="{{ pub.url }}"><h5 class="card-title">{{ pub.data.title }}</h5></a>
      <a href="{{ pub.url }}">
+  {% endif %}
    <img src="{{ pub.data.thumbnail }}" class="mx-auto d-block card-img-top" alt="{{ pub.data.title }}"></a>
     <p class="card-text">{{ pub.data.slug }}</p>
    
