@@ -3,7 +3,7 @@ layout: layouts/pubs.njk
 templateclass: tmpl-home
 pub_type: webpage
 tags: pub
-title: 'Resource List '
+title: 'Resource List, 2021 '
 slug: This publication is a resource list for youth and supporters wanting to learn
   more about transfer of rights and alternatives to guardianship.
 body: ''
