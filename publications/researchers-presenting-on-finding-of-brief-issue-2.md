@@ -4,7 +4,7 @@ templateclass: tmpl-home
 tags: pub
 pub_type: video
 title: 'Authors Present on Findings from Brief Issue #2'
-slug: ''
+slug: GATOR Advisory Council Presentation, November 2021
 thumbnail: "/uploads/player.png"
 document_upload: ''
 authors: xxxxxx
