@@ -24,7 +24,7 @@ fields:
   label: tags
   hidden: true
   default: pub
-- name: pub_date
+- name: date
   type: datetime
   label: Date
   description: Use this field to set the order for publications. Newest will be rendered
