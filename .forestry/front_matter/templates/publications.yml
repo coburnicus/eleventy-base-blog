@@ -91,6 +91,17 @@ fields:
     maxSize: 64
   label: feature_image
   description: Add a feature image
+- name: pub_date
+  type: datetime
+  label: Date
+  description: Use this field to set the order for publications. Newest will be rendered
+    first.
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
 pages:
 - publications/brief-2-2021.md
 - publications/gator-resource-list-1.md
