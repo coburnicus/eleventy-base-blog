@@ -8,7 +8,7 @@ slug: This publication is a resource list for youth and supporters wanting to le
   more about transfer of rights and alternatives to guardianship.
 body: ''
 thumbnail: "/uploads/gator_resource_list_f_th.png"
-document_upload: "/uploads/gator_resource_list_f.pdf"
+document_upload: "/uploads/gator-resource-list_final2.pdf"
 authors: ''
 link_to_video_or_webinar: ''
 embed: ''
