@@ -69,7 +69,7 @@ section {
   margin-top: 2em;
   border: 1px solid darkgrey;
   border-radius: 20px;
-  padding: 1em 1em 1em 1em;
+  padding: 3.5em 1em 1em 1em;
   -webkit-box-shadow: -5px 10px 10px -4px #828282;
   box-shadow: -5px 10px 10px -4px #828282;
 }
@@ -132,9 +132,10 @@ dt {
   float: right;
   padding-left: 1em;
 }
-
+.pub-img {
+  max-width: 150px;
+}
 .card img {
-  max-width: 100px;
   margin: auto;
 }
 
@@ -144,4 +145,17 @@ dt {
 
 a {
   text-decoration: dotted !important;
+}
+.grey-bg {
+  background-color: #565657;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 0.5em;
+  font-size: small;
+}
+
+.grey a {
+  font-size: x-large !important;
+  color: #565657 !important;
+  font-weight: bold;
 }
