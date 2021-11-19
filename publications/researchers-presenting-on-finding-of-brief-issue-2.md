@@ -3,11 +3,11 @@ layout: layouts/pubs.njk
 templateclass: tmpl-home
 tags: pub
 pub_type: video
-title: 'Researchers Presenting on Findings of Brief Issue #2'
+title: 'Authors Present on Findings from Brief Issue #2'
 slug: ''
 thumbnail: "/uploads/player.png"
 document_upload: ''
-authors: ''
+authors: xxxxxx
 link_to_video_or_webinar: ''
 embed: <script src="https://fast.wistia.com/embed/medias/2ynfa0k2lh.jsonp" async></script><script
   src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_embed
