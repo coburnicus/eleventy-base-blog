@@ -7,7 +7,7 @@ title: 'Authors Present on Findings from Brief Issue #2'
 slug: GATOR Advisory Council Presentation, November 2021
 thumbnail: "/uploads/player.png"
 document_upload: ''
-authors: xxxxxx
+authors: ''
 link_to_video_or_webinar: ''
 embed: <script src="https://fast.wistia.com/embed/medias/2ynfa0k2lh.jsonp" async></script><script
   src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_embed
@@ -19,3 +19,4 @@ embed: <script src="https://fast.wistia.com/embed/medias/2ynfa0k2lh.jsonp" async
 feature_image: ''
 
 ---
+Presenters: Kamisha Heriveaux, Lisa Severino, Shameka Andrews, Cynthia Goldberg and Allison Hall
