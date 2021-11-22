@@ -13,6 +13,7 @@ authors: ''
 link_to_video_or_webinar: ''
 embed: ''
 feature_image: ''
+date: 2021-11-18T05:00:00Z
 
 ---
 ## Are You a Youth or a Supporter Wanting to Learn More About Transfer of Rights and Alternatives to Guardianship?
