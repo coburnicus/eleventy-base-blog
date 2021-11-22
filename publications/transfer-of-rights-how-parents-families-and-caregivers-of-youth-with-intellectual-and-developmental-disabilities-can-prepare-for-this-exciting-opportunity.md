@@ -12,6 +12,6 @@ authors: ''
 link_to_video_or_webinar: ''
 embed: ''
 feature_image: ''
-date: 2021-11-19T05:00:00.000+00:00
+date: 2021-11-20T05:00:00Z
 
 ---
