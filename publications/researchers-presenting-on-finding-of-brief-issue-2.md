@@ -17,6 +17,7 @@ embed: <script src="https://fast.wistia.com/embed/medias/2ynfa0k2lh.jsonp" async
   style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true"
   onload="this.parentNode.style.opacity=1;" /></div></div>
 feature_image: ''
+date: 2021-11-21T05:00:00Z
 
 ---
 Presenters: Kamisha Heriveaux, Lisa Severino, Shameka Andrews, Cynthia Goldberg and Allison Hall
