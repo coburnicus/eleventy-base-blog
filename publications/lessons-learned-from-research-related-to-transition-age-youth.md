@@ -19,6 +19,7 @@ embed: <script src="https://fast.wistia.com/embed/medias/rfjf3e1fkh.jsonp" async
   style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true"
   onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
 feature_image: ''
+date: 2021-11-17T05:00:00Z
 
 ---
 Presenters: Kamisha Heriveaux, Lisa Severino, Jennifer Bose and Allison Hall
