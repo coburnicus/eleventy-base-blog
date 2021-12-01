@@ -4,7 +4,7 @@ templateclass: tmpl-home
 tags: pub
 pub_type: video
 date: 2021-09-06T04:00:00Z
-title: ''
+title: Participatory Action Research on the Transfer of Parental Rights under IDEA
 slug: Council for Exceptional Children Learning Event, March 2021
 thumbnail: ''
 document_upload: ''
