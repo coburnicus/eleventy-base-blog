@@ -22,3 +22,4 @@ embed: <script src="https://fast.wistia.com/embed/medias/hndkw4buad.jsonp" async
 feature_image: ''
 
 ---
+Presenters: Kamisha Heriveaux, Matthew Smith, Cady Landa, and Wayne Robinson
