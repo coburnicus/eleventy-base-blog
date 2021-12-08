@@ -61,6 +61,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy("uploads");
+  eleventyConfig.addPassthroughCopy("maps");
 
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
