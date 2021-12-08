@@ -276,7 +276,7 @@ var simplemaps_usmap_mapdata={
     },
     ND: {
       name: "North Dakota",
-      description: "Do IDEA Parental Rights Transfer?:\t \tYes<br />\nDoes It Clearly Satisfy IDEA Requirements?:\t \tNo<br />\nDoes It Mention Alternatives to Guardianship?:\t \tN/A<br />\nDoes It Refer to a Special Rule?:\t \tN/A<br />\nIs There a Transfer-of-Rights Statute or Regulation?:\t \tNo<br />\n<a href=\"/states/North Dakota/\">Learn more about North Dakota</a>",
+      description: "Do IDEA Parental Rights Transfer?:\t \tYes<br />\nDoes It Clearly Satisfy IDEA Requirements?:\t \tNo<br />\nDoes It Mention Alternatives to Guardianship?:\t \tN/A<br />\nDoes It Refer to a Special Rule?:\t \tN/A<br />\nIs There a Transfer-of-Rights Statute or Regulation?:\t \tNo<br />\n<a href=\"/states/North-Dakota/\">Learn more about North Dakota</a>",
       hide: "no",
       inactive: "no"
     },

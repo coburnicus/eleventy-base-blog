@@ -10,6 +10,9 @@
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
   }
+  .front_card {
+    height: 10.5em;
+  }
 }
 
 .container {
@@ -81,9 +84,6 @@ section {
   color: rgb(95, 110, 155);
 }
 
-#states {
-  border-color: rgb(239, 67, 35);
-}
 #states h2 {
   color: rgb(239, 67, 35);
 }
