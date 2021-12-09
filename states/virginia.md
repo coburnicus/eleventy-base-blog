@@ -5,27 +5,27 @@ title: Virginia
 abbreviation_: VA
 
 ---
-**_Is there a law or regulation clearly stating if parents’ Individuals with Disabilities Education Act (IDEA) rights transfer to adult students?_**
+**Is there a law or regulation clearly stating if parents’ Individuals with Disabilities Education Act (IDEA) rights transfer to adult students?**
 
 * Yes, 8 Va. Admin. Code §§ 20-81-180(A) clearly states that parental rights generally transfer to students when they turn 18 years old.
 
-**_Is there a law or regulation clearly stating if parents’ IDEA rights transfer to incarcerated students?_**
+**Is there a law or regulation clearly stating if parents’ IDEA rights transfer to incarcerated students?**
 
 * Yes, 8 Va. Admin. Code §§ 20-81-180(A) clearly states that parental rights transfer to incarcerated students when they turn 18 years old.
 
-**_Does the law or regulation clearly state that parents have a right to notice post transfer?_**
+**Does the law or regulation clearly state that parents have a right to notice post transfer?**
 
 * Yes, 8 Va. Admin. Code §§ 20-81-180(B)(3) clearly states that parents have a right to notice post transfer.
 
-**_Does the law or regulation clearly state that rights do not transfer to adult students with legal guardians or conservators?_**
+**Does the law or regulation clearly state that rights do not transfer to adult students with legal guardians or conservators?**
 
 * Yes, 8 Va. Admin. Code §§ 20-81-180(C)(2) clearly states that parental rights do not transfer to adult students “declared legally incompetent or legally incapacitated by a court of competent jurisdiction.”
 
-**_Does the law or regulation clearly mention alternatives to guardianship?_**
+**Does the law or regulation clearly mention alternatives to guardianship?**
 
 * Yes, 8 Va. Admin. Code §§ 20-81-180(C)(2) clearly states that students may execute a power of attorney or “similar legal document” to return rights to their parents or another adult. See also In re: Student with a Disability, 111 LRP 50818 (Virginia State Educational Agency, May 16, 2011).
 
-**_Is there a law or regulation creating a “special procedure” to appoint representatives for adult students deemed unable to give informed consent?_**
+**Is there a law or regulation creating a “special procedure” to appoint representatives for adult students deemed unable to give informed consent?**
 
 * Yes, 8 Va. Admin. Code §§ 20-81-180(C)(3) creates a procedure for appointing an educational representative for a student who is “certified . . . as unable to provide informed consent.” As early as 60 days before a student turns 18 years old, two among a list of enumerated qualified professionals must certify in writing that “the adult student is incapable of providing informed consent and that the student has been informed of this decision.” “Incapable of providing informed consent” is defined as being unable to do one of the following:
   * “(1) Understand the nature, extent and probable consequences of a proposed educational program or option on a continuing or consistent basis;
@@ -34,10 +34,10 @@ abbreviation_: VA
 
 North Carolina’s special procedure is very similar.
 
-**_Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated if their rights transfer?_**
+**Do parents lose the right to make a due process complaint or to sue if their students’ right to a free, appropriate public education (FAPE) is violated if their rights transfer?**
 
 * Unclear. The GATOR project team has not located hearing officer or court decisions that address this issue in Virginia.
 
-**_Does state educational agency guidance clearly explain the applicable laws and/or regulations regarding transfer of rights?_**
+**Does state educational agency guidance clearly explain the applicable laws and/or regulations regarding transfer of rights?**
 
 * Yes, the Virginia Department of Education’s 2015 technical assistance resource document Transfer of Rights for Students with Disabilities upon Reaching the Age of Majority in Virginia clearly states that parental rights generally transfer to students when they turn 18 years old. It lists four ways for a parent to be appointed to make educational decision on behalf of an adult student: court-appointed guardianship;  judicial order admitting the student to a training, treatment and habilitation facility; appointment as educational representative pursuant to 8 Va. Admin. Code §§ 20-81-180(C)(3); or appointment as agent through a power of attorney. This resource contains forms for the latter two options. However, this resource fails to mention that parents have a right to notice post transfer.
