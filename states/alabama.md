@@ -3,8 +3,8 @@ layout: layouts/base.njk
 templateClass: tmpl-home
 title: Alabama
 abbreviation_: AL
-
 ---
+
 **Is there a law or regulation clearly stating if parents’ Individuals with Disabilities Education Act (IDEA) rights transfer to adult students?**
 
 Yes, Ala. Admin. Code r. 290-8-9-.08 clearly states that parental rights generally transfer to students when they turn 19 years old.
@@ -33,7 +33,7 @@ Yes, pursuant to Ala. Admin. Code r. 290-8-9-.08, the Alabama Department of Educ
 
 Unclear. The GATOR project team has not found hearing officer or court decisions that address this issue.
 
-**Does state educational agency guidance clearly explain the applicable laws and/or regulations regarding transfer of rights?**
+**Does state educational agency guidance clearly explain the applicable laws and/or regulations regarding transfer-of-rights?**
 
 Yes, the Alabama State Department of Education’s 2015 _Preparing for Life Transition Planning Guide_ clearly states that parental rights generally transfer to students when they turn 19 years old and that parents have a right to notice.
 

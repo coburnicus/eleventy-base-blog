@@ -1,10 +1,10 @@
 {
-  "title": "Guardianship and Transfer of Rights",
+  "title": "Guardianship and transfer-of-rights",
   "url": "https://gator.communityinclusion.org/",
   "language": "en",
-  "description": "Guardianship Alternatives and Transfer of Rights",
+  "description": "Guardianship Alternatives and transfer-of-rights",
   "feed": {
-    "subtitle": "Guardianship Alternatives and Transfer of Rights",
+    "subtitle": "Guardianship Alternatives and transfer-of-rights",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://gator.communityinclusion.org/"

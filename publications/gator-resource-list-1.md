@@ -3,20 +3,21 @@ layout: layouts/pubs.njk
 templateclass: tmpl-home
 pub_type: webpage
 tags: pub
-title: 'Resource List, 2021 '
-slug: This publication is a resource list for youth and supporters wanting to learn
-  more about transfer of rights and alternatives to guardianship.
-body: ''
+title: "Resource List, 2021 "
+slug:
+  This publication is a resource list for youth and supporters wanting to learn
+  more about transfer-of-rights and alternatives to guardianship.
+body: ""
 thumbnail: "/uploads/gator_resource_list_f_th.png"
 document_upload: "/uploads/gator-resource-list_remediated.pdf"
-authors: ''
-link_to_video_or_webinar: ''
-embed: ''
-feature_image: ''
+authors: ""
+link_to_video_or_webinar: ""
+embed: ""
+feature_image: ""
 date: 2021-11-18T05:00:00.000+00:00
-
 ---
-## Are You a Youth or a Supporter Wanting to Learn More About Transfer of Rights and Alternatives to Guardianship?
+
+## Are You a Youth or a Supporter Wanting to Learn More About transfer-of-rights and Alternatives to Guardianship?
 
 **Click on the title of each resource on this page to read, watch, download, or learn more about it:**
 
