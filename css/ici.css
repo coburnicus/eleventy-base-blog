@@ -144,8 +144,8 @@ dt {
 }
 
 a {
-  text-decoration: dotted !important;
-}
+  text-decoration-style: dotted !important;}
+
 .grey-bg {
   background-color: #565657;
   color: #fff;
