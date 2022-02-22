@@ -3,7 +3,7 @@ layout: layouts/pubs.njk
 templateclass: tmpl-home
 tags: pub
 pub_type: video
-date: 2022-02-22T05:00:00Z
+date: 2022-02-21T05:00:00Z
 title: Understanding Transfer of Rights Discussions to Foster Meaningful Systems Change
 slug: TASH Conference Presentation, December 1, 2021
 thumbnail: "/uploads/player.png"
