@@ -2,7 +2,7 @@
 layout: layouts/pubs.njk
 templateclass: tmpl-home
 tags: pub
-pub_type: webpage
+pub_type: download
 date: 2022-03-22T04:00:00Z
 title: '50-State Analysis of Transfer-of-Rights Rules and Policies '
 slug: This in-depth article surveys all the transfer-of-rights rules and policies
@@ -10,7 +10,7 @@ slug: This in-depth article surveys all the transfer-of-rights rules and policie
 thumbnail: "/uploads/987_smith_stein_thumb.png"
 document_upload: "/uploads/987_smith_stein_thumb-1.png"
 authors: ''
-link_to_video_or_webinar: https://drexel.edu/law/lawreview/issues/Archives/v13-4/smith_stein/
+link_to_video_or_webinar: ''
 embed: ''
 feature_image: "/uploads/987_smith_stein_thumb-2.png"
 
