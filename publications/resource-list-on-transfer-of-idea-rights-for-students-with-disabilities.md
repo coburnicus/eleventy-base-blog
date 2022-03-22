@@ -3,7 +3,7 @@ layout: layouts/pubs.njk
 templateclass: tmpl-home
 tags: pub
 pub_type: download
-date: 
+date: 2022-03-18T04:00:00Z
 title: Resource List on Transfer of Idea Rights For Students with Disabilities
 slug: 'Resources related to the transfer of IDEA rights for students with disabilities:
   empirical research, law & policy analysis, self-advocacy materials, and professional,
