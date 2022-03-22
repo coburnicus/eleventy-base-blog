@@ -103,6 +103,7 @@ fields:
   label: feature_image
   description: Add a feature image
 pages:
+- publications/50-state-analysis-of-transfer-of-rights-rules-and-policies.md
 - publications/brief-2-2021.md
 - publications/gator-resource-list-1.md
 - publications/lessons-learned-from-research-related-to-transition-age-youth.md
