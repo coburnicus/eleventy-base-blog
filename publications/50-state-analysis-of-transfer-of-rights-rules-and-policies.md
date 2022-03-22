@@ -15,4 +15,6 @@ embed: ''
 feature_image: ''
 
 ---
-This article can be accessed by clicking on this link: [https://drexel.edu/law/lawreview/issues/Archives/v13-4/smith_stein/](https://drexel.edu/law/lawreview/issues/Archives/v13-4/smith_stein/ "https://drexel.edu/law/lawreview/issues/Archives/v13-4/smith_stein/")
+# Transfer of Parental Rights: The Impact of Section 615(M) of the Individuals with Disabilities Education Act
+
+A PDF of this article can be accessed by clicking on this link: [https://drexel.edu/law/lawreview/issues/Archives/v13-4/smith_stein/](https://drexel.edu/law/lawreview/issues/Archives/v13-4/smith_stein/ "https://drexel.edu/law/lawreview/issues/Archives/v13-4/smith_stein/")
