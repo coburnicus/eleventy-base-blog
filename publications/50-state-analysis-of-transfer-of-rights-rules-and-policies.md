@@ -12,6 +12,6 @@ document_upload: ''
 authors: ''
 link_to_video_or_webinar: ''
 embed: ''
-feature_image: "/uploads/987_smith_stein_thumb-2.png"
+feature_image: ''
 
 ---
