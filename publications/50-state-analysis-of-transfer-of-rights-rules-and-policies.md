@@ -11,7 +11,7 @@ thumbnail: ''
 document_upload: ''
 authors: ''
 link_to_video_or_webinar: ''
-embed: ''
+embed: https://drexel.edu/law/lawreview/issues/Archives/v13-4/smith_stein/
 feature_image: ''
 
 ---
