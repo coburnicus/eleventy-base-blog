@@ -18,8 +18,8 @@ feature_image: ''
 ---
 “What Is Known About Schools’ Transfer of Rights Practices for Students With Intellectual and Developmental Disabilities” examines schools’ transfer of rights practices under the Individuals with Disabilities Education Act (IDEA) with respect to students with IDD. The review found only limited empirical evidence of how IDEA transfer of rights policies are implemented in schools and affect students and parents.
 
-Authored by current and former ICI staffers and GATOR consultants Matthew “Hezzy” Smith and Michael Stein from the Harvard Law School Project on Disability,
+Authored by current and former ICI staffers and GATOR consultants from the Harvard Law School Project on Disability: Cady Landa, Matthew S. Smith, Allison Cohen Hall, Jen Bose, Jaimie C. Timmons, and Michael Ashley Stein
 
-Read more about the research in the Journal of Special Education.
+Read this article in the Journal of Special Education: 
 
 [https://journals.sagepub.com/doi/10.1177/00224669221147256](https://journals.sagepub.com/doi/10.1177/00224669221147256 "https://journals.sagepub.com/doi/10.1177/00224669221147256")
