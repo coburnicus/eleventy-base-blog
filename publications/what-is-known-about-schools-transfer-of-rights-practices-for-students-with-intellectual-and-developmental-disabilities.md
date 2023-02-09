@@ -11,7 +11,7 @@ slug: 'This article examines schools’ transfer of rights practices under the I
 thumbnail: "/uploads/screen-shot-2023-02-09-at-9-35-29-am.png"
 document_upload: ''
 authors: ''
-link_to_video_or_webinar: ''
+link_to_video_or_webinar: https://journals.sagepub.com/doi/10.1177/00224669221147256
 embed: ''
 feature_image: ''
 
