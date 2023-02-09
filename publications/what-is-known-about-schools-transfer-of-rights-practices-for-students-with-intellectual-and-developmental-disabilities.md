@@ -3,7 +3,7 @@ layout: layouts/pubs.njk
 templateclass: tmpl-home
 tags: pub
 pub_type: webpage
-date: 
+date: 2023-02-09T05:00:00Z
 title: What Is Known About Schools’ Transfer of Rights Practices for Students With
   Intellectual and Developmental Disabilities
 slug: 'This article examines schools’ transfer of rights practices under the Individuals
